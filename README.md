@@ -33,7 +33,7 @@ The officiating crew consists of one main referee and two side-judges, one from 
 
 #### Rule #6
 
-Code Katas are selected prior to the fight by an impartial referee. The katas in question are secret to the teams before the event, obviously.
+Code Katas (in Ruby) are selected prior to the fight by an impartial referee, one for each round. The katas in question are secret to the teams before the event, obviously.
 
 #### Rule #7
 
